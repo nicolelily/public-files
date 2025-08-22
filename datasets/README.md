@@ -15,4 +15,8 @@ Collection of cleaned datasets in CSV format, ready for analysis, organized by t
 - **Email us** - Email: nicole@nicoledesignsdata.com
   
 ## Literature
-### [Agatha Christie](datasets/literature/christie)
+### [Agatha Christie Datasets](datasets/literature/christie/)
+- [Novels](datasets/literature/christie/Christie_novels.csv)
+- [Short Stories](datasets/literature/christie/Christie_stories.csv)
+- [Collections](datasets/literature/christie/Christie_short_story_collections.csv)
+- [All Titles](datasets/literature/christie/Christie_titles.csv)
